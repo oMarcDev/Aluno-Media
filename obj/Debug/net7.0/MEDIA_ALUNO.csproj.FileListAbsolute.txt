@@ -1,0 +1,14 @@
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\bin\Debug\net7.0\MEDIA_ALUNO.exe
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\bin\Debug\net7.0\MEDIA_ALUNO.deps.json
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\bin\Debug\net7.0\MEDIA_ALUNO.runtimeconfig.json
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\bin\Debug\net7.0\MEDIA_ALUNO.dll
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\bin\Debug\net7.0\MEDIA_ALUNO.pdb
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\obj\Debug\net7.0\MEDIA_ALUNO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\obj\Debug\net7.0\MEDIA_ALUNO.AssemblyInfoInputs.cache
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\obj\Debug\net7.0\MEDIA_ALUNO.AssemblyInfo.cs
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\obj\Debug\net7.0\MEDIA_ALUNO.csproj.CoreCompileInputs.cache
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\obj\Debug\net7.0\MEDIA_ALUNO.dll
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\obj\Debug\net7.0\refint\MEDIA_ALUNO.dll
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\obj\Debug\net7.0\MEDIA_ALUNO.pdb
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\obj\Debug\net7.0\MEDIA_ALUNO.genruntimeconfig.cache
+C:\Users\Filhos\Desktop\MEDIA_ALUNO\obj\Debug\net7.0\ref\MEDIA_ALUNO.dll
